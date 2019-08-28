@@ -2,7 +2,7 @@
 
 
 <div align = "center">
-<img src="/screen/screen1.jpeg" width="60%">        
+<img src="/screen/screen1.jpeg" width="47%">        
 </div>
 
 <p align="center">
