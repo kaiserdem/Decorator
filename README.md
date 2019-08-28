@@ -2,7 +2,7 @@
 
 
 <div align = "center">
-<img src="/screens/screen1.jpeg" width="60%">        
+<img src="/screen/screen1.jpeg" width="60%">        
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/licence-MIT-lightgray.svg" alt="Licence MIT"/>
 </p>
 <div align = "center">
-<img src="/screens/image1.jpeg" width="80%">     
+<img src="/screen/image1.jpeg" width="80%">     
 
 
 <br>
